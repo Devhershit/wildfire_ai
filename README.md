@@ -1,18 +1,18 @@
-# 🔥 Wildfire Detection AI
+#  Wildfire Detection AI
 
 Welcome to the **Wildfire Detection AI** project! This project uses artificial intelligence to automatically detect the presence of wildfires in aerial or forest images.
 
-## 🌟 What Does This Do?
+##  What Does This Do?
 When you give the AI an image of a forest or landscape, it will analyze the image and tell you if it spots a wildfire. It also gives you a "confidence percentage" so you know how sure the AI is about its decision.
 
 This can be incredibly useful for early fire detection and environmental monitoring.
 
-## 🛠️ Features
+## Features
 - **Web Interface:** A beautiful, easy-to-use web app built with Streamlit where you can simply upload an image and see the results instantly.
 - **Command Line Script:** A fast Python script (`detect.py`) if you prefer running things from your terminal.
 - **Pre-trained AI Model:** Uses a deep learning model to accurately classify images.
 
-## 🚀 How to Set Up and Run
+##  How to Set Up and Run
 
 ### 1. Install Requirements
 First, make sure you have Python installed. Then, open your terminal (or command prompt) and run this command to install the required libraries:
